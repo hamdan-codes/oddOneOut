@@ -1,0 +1,3 @@
+Download this file from internet glove.6B.50d.txt
+
+and sore in a folder for training purpose..
